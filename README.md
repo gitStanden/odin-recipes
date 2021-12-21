@@ -1,1 +1,2 @@
 # odin-recipes
+This current project is a demonstration of what I have learned so far in The Odin Project's HTML foundations course. Here I will demonstrate: Title, Headers, Images, Relative Links, Ordered and Unordered Lists. 
